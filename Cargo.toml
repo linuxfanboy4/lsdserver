@@ -1,0 +1,10 @@
+[package]
+name = "lsdserver"
+version = "1.2.0"
+edition = "2018"
+homepage = "https://github.com/linuxfanboy4/lsdserver.git"
+repostiory = "https://github.com/linuxfanboy4/lsdserver.git"
+readme = "README.md" 
+license = "MIT"
+
+[dependencies]
